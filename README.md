@@ -18,5 +18,5 @@ Currently, I am focused on refining my skills and exploring different technologi
 - Reviewing software development fundamentals to determine my future career path.
 
 ### Contact Information
-- LinkedIn: (https://www.linkedin.com/in/muhammad-hanif-afandi)
+- LinkedIn: https://www.linkedin.com/in/muhammad-hanif-afandi
 - Email: Afandihanif219@gmail.com
