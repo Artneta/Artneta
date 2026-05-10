@@ -13,7 +13,7 @@ Currently, I am focused on refining my skills and exploring different technologi
 - **Database Management:** MySQL, XAMPP environment.
 
 ### Current Activity
-- Exploring modern CSS workflows with Tailwind CSS.
+- Exploring how AI works.
 - Building small-scale projects to consolidate my understanding of previous technologies.
 - Reviewing software development fundamentals to determine my future career path.
 
