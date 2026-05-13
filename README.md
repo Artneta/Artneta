@@ -1,6 +1,6 @@
 # Muhammad Hanif
 
-I am a Vocational High School (SMK) in Indonesia, graduate with a background in Software Engineering (maybe). Throughout my studies, I have been exposed to various programming languages and frameworks, ranging from web development to mobile applications.
+I am a Vocational High School (SMK) in Indonesia, graduate with a background in Software Engineering. Throughout my studies, I have been exposed to various programming languages and frameworks, ranging from web development to mobile applications.
 
 Currently, I am focused on refining my skills and exploring different technologies to find my core specialization. I value clean logic and functional design.
 
